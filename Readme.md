@@ -1,4 +1,4 @@
-# Multimodal RAG with Persistent Memory
+# DocuMind-AI-Multimodal-RAG-with-Persistent-Conversational-Memory
 
 A **production-grade Multimodal Retrieval-Augmented Generation (RAG)** system built using **LangChain, LangGraph, FAISS, OCR, and Ollama**, with a **Streamlit UI** and **thread-based persistent memory**.
 
