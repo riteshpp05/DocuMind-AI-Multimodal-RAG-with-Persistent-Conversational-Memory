@@ -117,12 +117,6 @@ Assistant: Hello Ritesh!
 User: what is my name?
 Assistant: Your name is Ritesh.
 ```
-
-```
-User: What is the 3-year return of Bajaj Flexi Cap Fund?
-Assistant: Not available.
-```
-
 ---
 
 ## Key Design Notes
