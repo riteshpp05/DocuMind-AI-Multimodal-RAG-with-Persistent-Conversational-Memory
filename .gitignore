@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.stackdump
+
+# Virtual environment
+venv/
+
+# Streamlit
+.streamlit/
+
+# OCR / binaries
+tesseract-ocr.exe
+Release-25.12.0-0/
+
+# Notebooks / experiments
+notebook/
+figures/
+memory/
+test/
+
+# OS
+Thumbs.db
+.DS_Store
